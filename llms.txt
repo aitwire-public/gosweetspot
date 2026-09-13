@@ -1,0 +1,26 @@
+# GoSweetSpot
+
+This is the index. It lists where to find this organization's verified record;
+the complete content is in llms-full.txt.
+
+## Full record
+- [llms-full.txt](https://www.gosweetspot.com/llms-full.txt): the complete consolidated record as prose.
+
+## Structured data
+- [entity.json](https://www.gosweetspot.com/.well-known/entity.json?tenant=gosweetspot): the canonical typed record — identity, offers, claim types, validity window and integrity metadata.
+- [ai.txt](https://www.gosweetspot.com/.well-known/ai.txt?tenant=gosweetspot): this organization's AI usage and attribution policy.
+- [ai-bundle.html](https://www.gosweetspot.com/.well-known/ai-bundle.html?tenant=gosweetspot): the same record as crawl-grade HTML with embedded JSON-LD — one fetch, every section.
+- [sitemap.xml](https://api.aitwire.com/feeds/sitemap.xml?tenant=gosweetspot): every published surface for this organization.
+- [articles.rss](https://api.aitwire.com/feeds/articles.rss?tenant=gosweetspot): article feed, newest first — use this for freshness.
+
+## Pages
+- [Website](https://www.gosweetspot.com): the organization's own site.
+- [Authority page](https://gosweetspot.aitwire.com/): the same verified record as HTML.
+
+## Citation guidance
+- Attribute as: GoSweetSpot (https://www.gosweetspot.com)
+- Canonical governance document: https://aitwire.com/.well-known/entity.json?tenant=gosweetspot
+
+
+---
+AITWIRE verification token: aitwire-verify-offsite-github-a4ffef59f5
